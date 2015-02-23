@@ -12,6 +12,3 @@ Our project is an upgrade to the Rockstar dashboard, which currently collects da
 ![](https://cloud.githubusercontent.com/assets/8097623/6320700/1ce4ac1c-ba9a-11e4-89e8-d50b339c5730.jpg)
 
 We replace these high frequency API requests with WebSockets, which provide a persistent, low latency connection that can support transactions initiated by the server. The end result is increased performance and a better user experience.
-
-
-
